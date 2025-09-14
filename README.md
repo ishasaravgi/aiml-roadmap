@@ -22,3 +22,8 @@ Short one-line project description.
 
 ## Notes
 Write brief notes here about what you learned and blockers.
+## Day 2 Task
+- Added preview_csv.py script
+- Learned: Pandas basics, reading CSV, summary stats
+- Blockers: (write if any)
+
